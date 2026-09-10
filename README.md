@@ -1,5 +1,11 @@
 <div align="center">
+<div align="center">
 
+<img src="./assets/shreya_pink_coding_banner.gif" alt="Shreya Gupta - Software Engineer" width="100%"/>
+
+</div>
+
+<br/>
 # 🌸 Hi, I'm Shreya Gupta 👋
 
 ### 💻 Software Engineer | Java | TypeScript | React | Node.js
