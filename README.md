@@ -1,20 +1,16 @@
 <div align="center">
-<div align="center">
 
-<img src="./assets/shreya_pink_coding_banner.gif" alt="Shreya Gupta - Software Engineer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0D0A0D,50:FF69B4,100:FF1493&height=200&section=header&text=Shreya%20Gupta&fontSize=42&fontColor=FFF0F7&animation=fadeIn&desc=Software%20Engineer%20%7C%20Building%20Scalable%20Applications&descSize=17&descAlignY=62&fontAlignY=35" width="100%"/>
 
-</div>
-
-<br/>
-# 🌸 Hi, I'm Shreya Gupta 👋
-
-### 💻 Software Engineer | Java | TypeScript | React | Node.js
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Software+Engineer+%F0%9F%92%BB;Java+%7C+TypeScript+%7C+React+%7C+Node.js;Building+Scalable+Applications+%F0%9F%8C%B8;Solving+DSA+Problems+Every+Day+%F0%9F%A7%A9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&background=0D0A0D&center=true&vCenter=true&width=760&lines=%24+whoami+%3E%3E+Software+Engineer;%24+stack+%3E%3E+Java+%7C+JavaScript+%7C+TypeScript+%7C+React+%7C+Node.js+%7C+AWS;%24+focus+%3E%3E+Backend+Engineering+%2B+System+Design;%24+status+%3E%3E+Building+Projects+%2B+Solving+DSA;%24+goal+%3E%3E+Open+Source+%2B+Software+Engineering" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shreya11G&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=flat-square&logo=googlechrome&logoColor=000000)](https://portfolioshreyagupta.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=flat-square&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/shreya-gupta-210426261/)
+[![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=flat-square&logo=github&logoColor=000000)](https://github.com/Shreya11G)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FF1493?style=flat-square&logo=leetcode&logoColor=000000)](https://leetcode.com/u/Shreya525/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-FF69B4?style=flat-square&logo=geeksforgeeks&logoColor=000000)](https://www.geeksforgeeks.org/profile/geeks__sy?tab=activity)
 
 </div>
 
@@ -23,14 +19,31 @@
 ## 👩🏻‍💻 About Me
 
 ```text
-💻 Software Engineer passionate about building scalable applications
+💻 Software Engineer focused on building scalable and practical applications
 ☕ Java developer exploring backend engineering and system design
-🌸 Building full-stack projects with React, Node.js and Express
+🌸 Building projects with React, TypeScript, Node.js and Express
 ☁️ Working with AWS, REST APIs and cloud-based applications
-🧩 Solved 800+ DSA problems
+🧩 Solved 800+ DSA problems across LeetCode and GeeksForGeeks
 🚀 Former Software Engineering Intern at Globalization Partners (G-P)
 🏆 Top 100 Team — Myntra WeForShe Hackathon 2025
 ```
+
+---
+
+## 💼 Experience
+
+### 🚀 Software Engineering Intern — Globalization Partners (G-P)
+
+**Feb 2026 – Jun 2026**
+
+- Developed enterprise software using **Java, TypeScript, Python and RESTful APIs**.
+- Completed **50+ Jira tasks** across the software development lifecycle.
+- Engineered an **AWS Lambda automation workflow** triggered by Jira webhooks.
+- Reduced manual effort by **99%** and execution time from nearly **1 hour to seconds**.
+- Migrated **17 API services from Java to TypeScript**.
+- Contributed **70+ pull requests**.
+- Established **Coralogix dashboards and alerts** for improved system observability.
+- Worked in an **Agile/Scrum environment** involving code reviews, debugging, unit testing, API testing and deployments.
 
 ---
 
@@ -40,7 +53,7 @@
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,c,cpp" />
+<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,c" />
 
 ### 🎨 Frontend
 
@@ -52,7 +65,7 @@
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,dynamodb" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle,dynamodb" />
 
 ### ☁️ Cloud & DevOps
 
@@ -60,9 +73,15 @@
 
 ### 🔧 Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman,jupyter" />
 
 </div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Bruno-FF69B4?style=for-the-badge&logo=bruno&logoColor=white" />
+<img src="https://img.shields.io/badge/Coralogix-FF1493?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-FF69B4?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
 
 ---
 
@@ -72,15 +91,16 @@
 
 **AI-Powered Learning & Career Companion**
 
-* 🤖 AI tutoring and personalized study planning
-* 🎯 Career guidance and productivity tools
-* 🔗 REST APIs with Node.js and Express
-* 🗄️ MongoDB database
-* 🔐 JWT authentication
-* ✨ Gemini API integration
+A GenAI-powered platform combining learning, productivity and career guidance.
 
-🔗 **[View Repository]([https://github.com/Shreya11G](https://github.com/Shreya11G/Vidya_Saathi_App
-))**
+- 🤖 AI tutoring and personalized study planning
+- 🎯 Career guidance and productivity tools
+- 🔗 REST APIs with Node.js and Express
+- 🗄️ MongoDB database
+- 🔐 JWT authentication
+- ✨ Gemini API integration
+
+🔗 **[View Repository](https://github.com/Shreya11G)**
 
 ---
 
@@ -88,15 +108,14 @@
 
 **SDE Preparation & Career Intelligence Platform**
 
-A platform designed to help developers prepare for software engineering roles through personalized preparation, DSA tracking, and career intelligence.
+A platform designed to help developers prepare for software engineering roles through personalized preparation, DSA tracking and career intelligence.
 
-* 📚 Personalized SDE preparation
-* 🧩 DSA practice and progress tracking
-* 💼 Career intelligence
-* 🤖 AI-powered assistance
+- 📚 Personalized SDE preparation
+- 🧩 DSA practice and progress tracking
+- 💼 Career intelligence
+- 🤖 AI-powered assistance
 
-🔗 **[View Repository]([https://github.com/Shreya11G](https://github.com/Shreya11G/PrepPilot_AI
-))**
+🔗 **[View Repository](https://github.com/Shreya11G)**
 
 ---
 
@@ -104,15 +123,15 @@ A platform designed to help developers prepare for software engineering roles th
 
 **Secure JWT + OTP Authentication**
 
-* 🔑 JWT authentication
-* 📧 Email OTP verification
-* 🔄 Password recovery
-* 🛡️ Session management
-* ⚛️ React frontend
-* 🟢 Node.js + Express backend
-* 🍃 MongoDB database
+- 🔑 JWT authentication
+- 📧 Email OTP verification
+- 🔄 Password recovery
+- 🛡️ Session management
+- ⚛️ React frontend
+- 🟢 Node.js + Express backend
+- 🍃 MongoDB database
 
-🔗 **[View Repository]([https://github.com/Shreya11G](https://github.com/Shreya11G/Authentication_App))**
+🔗 **[View Repository](https://github.com/Shreya11G)**
 
 ---
 
@@ -122,12 +141,12 @@ A platform designed to help developers prepare for software engineering roles th
 
 A real-time communication application built with React and Socket.io.
 
-* ⚛️ React
-* 💬 Socket.io
-* 🔄 Real-time communication
-* 🎨 Responsive interface
+- ⚛️ React
+- 💬 Socket.io
+- 🔄 Real-time communication
+- 🎨 Responsive interface
 
-🔗 **[View Repository]([https://github.com/Shreya11G](https://github.com/Shreya11G/GigglyTalk))**
+🔗 **[View Repository](https://github.com/Shreya11G)**
 
 ---
 
@@ -143,34 +162,48 @@ A real-time communication application built with React and Socket.io.
 
 ---
 
+<!--START_MERGED_PRS-->
+<!--END_MERGED_PRS-->
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shreya11G&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya11G&layout=compact&hide_border=true&title_color=ff69b4&text_color=ffffff&bg_color=0d1117" alt="Top Languages"/>
+<img src="./assets/github-analytics.svg" width="100%" alt="GitHub Analytics"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## 📈 Repository Language Distribution
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Shreya11G&theme=dark&hide_border=true&ring=ff69b4&fire=ff1493&currStreakLabel=ff69b4" alt="GitHub Contribution Streak"/>
+<img src="./assets/language-graph.svg" width="100%" alt="Repository Language Distribution"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🟣 Contribution Activity
 
-* 🏅 **Top 100 Teams** — Myntra WeForShe Hackathon 2025
-* 🧩 **800+ DSA Problems Solved**
-* 🥈 **2nd Place** — Science & Technology Exhibition
-* 🏐 **Organized Intra-NIT Sports Meet 2025**
+<div align="center">
+
+<img src="./assets/contribution-graph.svg" width="100%" alt="Contribution Activity"/>
+
+</div>
+
+---
+
+## 🔀 Pull Request Activity
+
+<div align="center">
+
+<img src="./assets/pr-activity.svg" width="100%" alt="Pull Request Activity"/>
+
+</div>
 
 ---
 
@@ -178,41 +211,32 @@ A real-time communication application built with React and Socket.io.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Shreya11G/Shreya11G/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+<img src="https://raw.githubusercontent.com/Shreya11G/Shreya11G/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
 
 ---
 
-# 🌸 Let's Connect
+## 🏆 Achievements
+
+- 🏅 **Top 100 Teams** — Myntra WeForShe Hackathon 2025
+- 🧩 **800+ DSA Problems Solved**
+- 🥈 **2nd Place** — Science & Technology Exhibition
+- 🏐 **Organized Intra-NIT Sports Meet 2025**
+
+---
+
+## 🌸 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/shreya-gupta-210426261/">
-  <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolioshreyagupta.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-gupta-210426261/)
+[![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreya11G)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FF1493?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Shreya525/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-FF69B4?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/geeks__sy?tab=activity)
 
-<a href="https://github.com/Shreya11G">
-  <img src="https://img.shields.io/badge/GitHub-Shreya11G-ff1493?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://leetcode.com/u/Shreya525/">
-  <img src="https://img.shields.io/badge/LeetCode-Shreya525-ff69b4?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/geeks__sy?tab=activity">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-geeks__sy-ff1493?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-</a>
-
-<a href="https://portfolioshreyagupta.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 ### 💗 "Building one commit at a time."
 
