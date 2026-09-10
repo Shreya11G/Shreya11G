@@ -16,17 +16,19 @@
 
 ---
 
-## 👩🏻‍💻 About Me
+<h2 align="center">🌸 About Me</h2>
 
-```text
-💻 Software Engineer focused on building scalable and practical applications
-☕ Java developer exploring backend engineering and system design
-🌸 Building projects with React, TypeScript, Node.js and Express
-☁️ Working with AWS, REST APIs and cloud-based applications
-🧩 Solved 800+ DSA problems across LeetCode and GeeksForGeeks
-🚀 Former Software Engineering Intern at Globalization Partners (G-P)
-🏆 Top 100 Team — Myntra WeForShe Hackathon 2025
-```
+<p align="center">
+
+💻 <b>Software Engineer</b> | Building practical solutions to real-world problems<br>
+☕ <b>Java</b> — solving DSA problems and strengthening my problem-solving skills<br>
+⚡ <b>Node.js + Express + TypeScript</b> — building scalable backend applications<br>
+🎨 <b>React</b> — crafting modern and interactive web experiences<br>
+☁️ <b>AWS + REST APIs</b> — exploring cloud and distributed application development<br>
+🧠 <b>1000+ DSA problems solved</b> — one problem at a time, one concept at a time<br>
+🌱 <b>Learn → Build → Break → Fix → Repeat.</b>
+
+</p>
 
 
 <div align="center">
@@ -133,6 +135,8 @@
 
 <br/><br/>
 
-### 💗 "Building one commit at a time."
-
+<p align="center">
+<b>🌸 Curious mind. Creative builder.</b><br>
+<b>💗 Always growing. Always becoming a better engineer.</b>
+</p>
 </div>
