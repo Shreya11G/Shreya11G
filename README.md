@@ -28,52 +28,34 @@
 🏆 Top 100 Team — Myntra WeForShe Hackathon 2025
 ```
 
----
-
-## 💼 Experience
-
-### 🚀 Software Engineering Intern — Globalization Partners (G-P)
-
-**Feb 2026 – Jun 2026**
-
-- Developed enterprise software using **Java, TypeScript, Python and RESTful APIs**.
-- Completed **50+ Jira tasks** across the software development lifecycle.
-- Engineered an **AWS Lambda automation workflow** triggered by Jira webhooks.
-- Reduced manual effort by **99%** and execution time from nearly **1 hour to seconds**.
-- Migrated **17 API services from Java to TypeScript**.
-- Contributed **70+ pull requests**.
-- Established **Coralogix dashboards and alerts** for improved system observability.
-- Worked in an **Agile/Scrum environment** involving code reviews, debugging, unit testing, API testing and deployments.
-
----
-
-## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### `Tech-Stack`
+
+### Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,c" />
 
-### 🎨 Frontend
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 
-### ⚙️ Backend
+### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 
-### 🗄️ Databases
+### Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle,dynamodb" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,dynamodb" />
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 <img src="https://skillicons.dev/icons?i=aws,git,github" />
 
-### 🔧 Tools
+### Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman,jupyter" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman" />
 
 </div>
 
@@ -83,82 +65,6 @@
 <img src="https://img.shields.io/badge/Jira-FF69B4?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🌸 VidyaSaathi
-
-**AI-Powered Learning & Career Companion**
-
-A GenAI-powered platform combining learning, productivity and career guidance.
-
-- 🤖 AI tutoring and personalized study planning
-- 🎯 Career guidance and productivity tools
-- 🔗 REST APIs with Node.js and Express
-- 🗄️ MongoDB database
-- 🔐 JWT authentication
-- ✨ Gemini API integration
-
-🔗 **[View Repository](https://github.com/Shreya11G)**
-
----
-
-### 🤖 PrepPilot AI
-
-**SDE Preparation & Career Intelligence Platform**
-
-A platform designed to help developers prepare for software engineering roles through personalized preparation, DSA tracking and career intelligence.
-
-- 📚 Personalized SDE preparation
-- 🧩 DSA practice and progress tracking
-- 💼 Career intelligence
-- 🤖 AI-powered assistance
-
-🔗 **[View Repository](https://github.com/Shreya11G)**
-
----
-
-### 🔐 Authentication System
-
-**Secure JWT + OTP Authentication**
-
-- 🔑 JWT authentication
-- 📧 Email OTP verification
-- 🔄 Password recovery
-- 🛡️ Session management
-- ⚛️ React frontend
-- 🟢 Node.js + Express backend
-- 🍃 MongoDB database
-
-🔗 **[View Repository](https://github.com/Shreya11G)**
-
----
-
-### 💬 GigglyTalk
-
-**Real-Time Chat Application**
-
-A real-time communication application built with React and Socket.io.
-
-- ⚛️ React
-- 💬 Socket.io
-- 🔄 Real-time communication
-- 🎨 Responsive interface
-
-🔗 **[View Repository](https://github.com/Shreya11G)**
-
----
-
-## 🧩 DSA Journey
-
-<div align="center">
-
-### 🚀 800+ Problems Solved
-
-**LeetCode • GeeksForGeeks**
-
-</div>
 
 ---
 
@@ -166,8 +72,6 @@ A real-time communication application built with React and Socket.io.
 <!--END_MERGED_PRS-->
 
 ---
-
-## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -177,8 +81,6 @@ A real-time communication application built with React and Socket.io.
 
 ---
 
-## 📈 Repository Language Distribution
-
 <div align="center">
 
 <img src="./assets/language-graph.svg" width="100%" alt="Repository Language Distribution"/>
@@ -186,8 +88,6 @@ A real-time communication application built with React and Socket.io.
 </div>
 
 ---
-
-## 🟣 Contribution Activity
 
 <div align="center">
 
@@ -197,8 +97,6 @@ A real-time communication application built with React and Socket.io.
 
 ---
 
-## 🔀 Pull Request Activity
-
 <div align="center">
 
 <img src="./assets/pr-activity.svg" width="100%" alt="Pull Request Activity"/>
@@ -207,22 +105,12 @@ A real-time communication application built with React and Socket.io.
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Shreya11G/Shreya11G/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
 
----
-
-## 🏆 Achievements
-
-- 🏅 **Top 100 Teams** — Myntra WeForShe Hackathon 2025
-- 🧩 **800+ DSA Problems Solved**
-- 🥈 **2nd Place** — Science & Technology Exhibition
-- 🏐 **Organized Intra-NIT Sports Meet 2025**
 
 ---
 
@@ -234,7 +122,7 @@ A real-time communication application built with React and Socket.io.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-gupta-210426261/)
 [![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreya11G)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FF1493?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Shreya525/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-FF69B4?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/geeks__sy?tab=activity)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-FF69B4?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/geeks\_\_sy?tab=activity)
 
 <br/><br/>
 
