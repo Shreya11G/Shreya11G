@@ -163,6 +163,13 @@ A real-time communication application built with React and Socket.io.
 ---
 
 <!--START_MERGED_PRS-->
+<div align="center">
+
+**🔀 0 Total PRs**
+&nbsp;&nbsp; • &nbsp;&nbsp;
+**🩷 0 Merged PRs**
+
+</div>
 <!--END_MERGED_PRS-->
 
 ---

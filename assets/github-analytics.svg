@@ -1,0 +1,120 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+  width="1100" height="390"
+  viewBox="0 0 1100 390">
+<defs>
+  <filter id="pinkGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <filter id="strongPinkGlow" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="9" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <linearGradient id="pinkGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#FF69B4"/>
+    <stop offset="50%" stop-color="#FFC1E1"/>
+    <stop offset="100%" stop-color="#FF1493"/>
+  </linearGradient>
+</defs>
+
+<rect width="100%" height="100%" rx="18"
+  fill="#0D0A0D" stroke="#4A1E3A" stroke-width="1"/>
+
+<text x="35" y="42" fill="#FFF0F7"
+  font-family="Arial, sans-serif" font-size="22" font-weight="700">
+  GitHub Analytics
+</text>
+
+<rect x="35" y="75" width="310" height="110"
+  rx="14" fill="#171117" stroke="#4A1E3A"/>
+
+<text x="57" y="110"
+  fill="#B8A6B1" font-family="Arial" font-size="14">
+  Repositories
+</text>
+
+<text x="57" y="153"
+  fill="#FF69B4" filter="url(#pinkGlow)"
+  font-family="Arial" font-size="30" font-weight="700">
+  22
+</text>
+
+<rect x="385" y="75" width="310" height="110"
+  rx="14" fill="#171117" stroke="#4A1E3A"/>
+
+<text x="407" y="110"
+  fill="#B8A6B1" font-family="Arial" font-size="14">
+  Followers
+</text>
+
+<text x="407" y="153"
+  fill="#FF69B4" filter="url(#pinkGlow)"
+  font-family="Arial" font-size="30" font-weight="700">
+  0
+</text>
+
+<rect x="735" y="75" width="310" height="110"
+  rx="14" fill="#171117" stroke="#4A1E3A"/>
+
+<text x="757" y="110"
+  fill="#B8A6B1" font-family="Arial" font-size="14">
+  Commits
+</text>
+
+<text x="757" y="153"
+  fill="#FF69B4" filter="url(#pinkGlow)"
+  font-family="Arial" font-size="30" font-weight="700">
+  64
+</text>
+
+<rect x="35" y="215" width="310" height="110"
+  rx="14" fill="#171117" stroke="#4A1E3A"/>
+
+<text x="57" y="250"
+  fill="#B8A6B1" font-family="Arial" font-size="14">
+  Pull Requests
+</text>
+
+<text x="57" y="293"
+  fill="#FF69B4" filter="url(#pinkGlow)"
+  font-family="Arial" font-size="30" font-weight="700">
+  0
+</text>
+
+<rect x="385" y="215" width="310" height="110"
+  rx="14" fill="#171117" stroke="#4A1E3A"/>
+
+<text x="407" y="250"
+  fill="#B8A6B1" font-family="Arial" font-size="14">
+  Merged PRs
+</text>
+
+<text x="407" y="293"
+  fill="#FF69B4" filter="url(#pinkGlow)"
+  font-family="Arial" font-size="30" font-weight="700">
+  0
+</text>
+
+<rect x="735" y="215" width="310" height="110"
+  rx="14" fill="#171117" stroke="#4A1E3A"/>
+
+<text x="757" y="250"
+  fill="#B8A6B1" font-family="Arial" font-size="14">
+  Stars
+</text>
+
+<text x="757" y="293"
+  fill="#FF69B4" filter="url(#pinkGlow)"
+  font-family="Arial" font-size="30" font-weight="700">
+  0
+</text>
+</svg>
