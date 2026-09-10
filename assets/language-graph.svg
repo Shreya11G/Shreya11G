@@ -1,0 +1,196 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+  width="1100" height="500"
+  viewBox="0 0 1100 500">
+<defs>
+  <filter id="pinkGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <filter id="strongPinkGlow" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="9" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <linearGradient id="pinkGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#FF69B4"/>
+    <stop offset="50%" stop-color="#FFC1E1"/>
+    <stop offset="100%" stop-color="#FF1493"/>
+  </linearGradient>
+</defs>
+
+<rect width="100%" height="100%" rx="18"
+  fill="#0D0A0D" stroke="#4A1E3A" stroke-width="1"/>
+
+<text x="35" y="42" fill="#FFF0F7"
+  font-family="Arial, sans-serif" font-size="22" font-weight="700">
+  Repository Language Distribution
+</text>
+
+<text x="40" y="95"
+  fill="#F5F5F5" font-family="Arial" font-size="14">
+  JavaScript
+</text>
+
+
+<rect x="190" y="75" width="650" height="24"
+  rx="6" fill="#171117" stroke="#4A1E3A"/>
+
+<rect x="190" y="75"
+  width="650" height="24"
+  rx="6" fill="#FF69B4" filter="url(#pinkGlow)"/>
+
+
+<text x="860" y="94"
+  fill="#FF69B4" font-family="Arial"
+  font-size="14" font-weight="700">
+  78.6%
+</text>
+
+<text x="40" y="143"
+  fill="#F5F5F5" font-family="Arial" font-size="14">
+  Jupyter Notebook
+</text>
+
+
+<rect x="190" y="123" width="650" height="24"
+  rx="6" fill="#171117" stroke="#4A1E3A"/>
+
+<rect x="190" y="123"
+  width="103.19868419486296" height="24"
+  rx="6" fill="#FF69B4" filter="url(#pinkGlow)"/>
+
+
+<text x="860" y="142"
+  fill="#FF69B4" font-family="Arial"
+  font-size="14" font-weight="700">
+  12.5%
+</text>
+
+<text x="40" y="191"
+  fill="#F5F5F5" font-family="Arial" font-size="14">
+  CSS
+</text>
+
+
+<rect x="190" y="171" width="650" height="24"
+  rx="6" fill="#171117" stroke="#4A1E3A"/>
+
+<rect x="190" y="171"
+  width="34.78274930261534" height="24"
+  rx="6" fill="#FF69B4" filter="url(#pinkGlow)"/>
+
+
+<text x="860" y="190"
+  fill="#FF69B4" font-family="Arial"
+  font-size="14" font-weight="700">
+  4.2%
+</text>
+
+<text x="40" y="239"
+  fill="#F5F5F5" font-family="Arial" font-size="14">
+  HTML
+</text>
+
+
+<rect x="190" y="219" width="650" height="24"
+  rx="6" fill="#171117" stroke="#4A1E3A"/>
+
+<rect x="190" y="219"
+  width="18.627729521889744" height="24"
+  rx="6" fill="#FF69B4" filter="url(#pinkGlow)"/>
+
+
+<text x="860" y="238"
+  fill="#FF69B4" font-family="Arial"
+  font-size="14" font-weight="700">
+  2.3%
+</text>
+
+<text x="40" y="287"
+  fill="#F5F5F5" font-family="Arial" font-size="14">
+  Java
+</text>
+
+
+<rect x="190" y="267" width="650" height="24"
+  rx="6" fill="#171117" stroke="#4A1E3A"/>
+
+<rect x="190" y="267"
+  width="13.423613067579845" height="24"
+  rx="6" fill="#FF69B4" filter="url(#pinkGlow)"/>
+
+
+<text x="860" y="286"
+  fill="#FF69B4" font-family="Arial"
+  font-size="14" font-weight="700">
+  1.6%
+</text>
+
+<text x="40" y="335"
+  fill="#F5F5F5" font-family="Arial" font-size="14">
+  TypeScript
+</text>
+
+
+<rect x="190" y="315" width="650" height="24"
+  rx="6" fill="#171117" stroke="#4A1E3A"/>
+
+<rect x="190" y="315"
+  width="4.324082487808169" height="24"
+  rx="6" fill="#FF69B4" filter="url(#pinkGlow)"/>
+
+
+<text x="860" y="334"
+  fill="#FF69B4" font-family="Arial"
+  font-size="14" font-weight="700">
+  0.5%
+</text>
+
+<text x="40" y="383"
+  fill="#F5F5F5" font-family="Arial" font-size="14">
+  Python
+</text>
+
+
+<rect x="190" y="363" width="650" height="24"
+  rx="6" fill="#171117" stroke="#4A1E3A"/>
+
+<rect x="190" y="363"
+  width="2.675695301432863" height="24"
+  rx="6" fill="#FF69B4" filter="url(#pinkGlow)"/>
+
+
+<text x="860" y="382"
+  fill="#FF69B4" font-family="Arial"
+  font-size="14" font-weight="700">
+  0.3%
+</text>
+
+<text x="40" y="431"
+  fill="#F5F5F5" font-family="Arial" font-size="14">
+  Dockerfile
+</text>
+
+
+<rect x="190" y="411" width="650" height="24"
+  rx="6" fill="#171117" stroke="#4A1E3A"/>
+
+<rect x="190" y="411"
+  width="2" height="24"
+  rx="6" fill="#FF69B4" filter="url(#pinkGlow)"/>
+
+
+<text x="860" y="430"
+  fill="#FF69B4" font-family="Arial"
+  font-size="14" font-weight="700">
+  0.0%
+</text>
+</svg>

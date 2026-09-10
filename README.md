@@ -69,6 +69,13 @@
 ---
 
 <!--START_MERGED_PRS-->
+<div align="center">
+
+**🔀 0 Total PRs**
+&nbsp;&nbsp; • &nbsp;&nbsp;
+**🩷 0 Merged PRs**
+
+</div>
 <!--END_MERGED_PRS-->
 
 ---
