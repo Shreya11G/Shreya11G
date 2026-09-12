@@ -51,7 +51,7 @@
 <text x="860" y="94"
   fill="#FF69B4" font-family="Arial"
   font-size="14" font-weight="700">
-  78.5%
+  78.4%
 </text>
 
 <text x="40" y="143"
@@ -64,14 +64,14 @@
   rx="6" fill="#171117" stroke="#4A1E3A"/>
 
 <rect x="190" y="123"
-  width="103.19868419486296" height="24"
+  width="103.19868419486298" height="24"
   rx="6" fill="#FF69B4" filter="url(#pinkGlow)"/>
 
 
 <text x="860" y="142"
   fill="#FF69B4" font-family="Arial"
   font-size="14" font-weight="700">
-  12.5%
+  12.4%
 </text>
 
 <text x="40" y="191"
@@ -104,7 +104,7 @@
   rx="6" fill="#171117" stroke="#4A1E3A"/>
 
 <rect x="190" y="219"
-  width="18.627729521889744" height="24"
+  width="18.627729521889748" height="24"
   rx="6" fill="#FF69B4" filter="url(#pinkGlow)"/>
 
 
@@ -144,14 +144,14 @@
   rx="6" fill="#171117" stroke="#4A1E3A"/>
 
 <rect x="190" y="315"
-  width="5.1419569625376464" height="24"
+  width="6.405780654172602" height="24"
   rx="6" fill="#FF69B4" filter="url(#pinkGlow)"/>
 
 
 <text x="860" y="334"
   fill="#FF69B4" font-family="Arial"
   font-size="14" font-weight="700">
-  0.6%
+  0.8%
 </text>
 
 <text x="40" y="383"
