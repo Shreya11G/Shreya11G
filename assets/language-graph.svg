@@ -124,14 +124,14 @@
   rx="6" fill="#171117" stroke="#4A1E3A"/>
 
 <rect x="190" y="267"
-  width="15.245066722748428" height="24"
+  width="15.580882732240001" height="24"
   rx="6" fill="#FF69B4" filter="url(#pinkGlow)"/>
 
 
 <text x="860" y="286"
   fill="#FF69B4" font-family="Arial"
   font-size="14" font-weight="700">
-  1.8%
+  1.9%
 </text>
 
 <text x="40" y="335"
@@ -144,7 +144,7 @@
   rx="6" fill="#171117" stroke="#4A1E3A"/>
 
 <rect x="190" y="315"
-  width="6.4057806541726015" height="24"
+  width="6.405780654172602" height="24"
   rx="6" fill="#FF69B4" filter="url(#pinkGlow)"/>
 
 
