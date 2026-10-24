@@ -51,7 +51,7 @@
 <text x="860" y="94"
   fill="#FF69B4" font-family="Arial"
   font-size="14" font-weight="700">
-  78.2%
+  78.1%
 </text>
 
 <text x="40" y="143"
@@ -64,7 +64,7 @@
   rx="6" fill="#171117" stroke="#4A1E3A"/>
 
 <rect x="190" y="123"
-  width="103.19868419486296" height="24"
+  width="103.19868419486298" height="24"
   rx="6" fill="#FF69B4" filter="url(#pinkGlow)"/>
 
 
@@ -84,7 +84,7 @@
   rx="6" fill="#171117" stroke="#4A1E3A"/>
 
 <rect x="190" y="171"
-  width="34.782749302615336" height="24"
+  width="34.78274930261534" height="24"
   rx="6" fill="#FF69B4" filter="url(#pinkGlow)"/>
 
 
@@ -124,14 +124,14 @@
   rx="6" fill="#171117" stroke="#4A1E3A"/>
 
 <rect x="190" y="267"
-  width="15.580882732240001" height="24"
+  width="16.880815672207387" height="24"
   rx="6" fill="#FF69B4" filter="url(#pinkGlow)"/>
 
 
 <text x="860" y="286"
   fill="#FF69B4" font-family="Arial"
   font-size="14" font-weight="700">
-  1.9%
+  2.0%
 </text>
 
 <text x="40" y="335"
@@ -144,7 +144,7 @@
   rx="6" fill="#171117" stroke="#4A1E3A"/>
 
 <rect x="190" y="315"
-  width="6.405780654172602" height="24"
+  width="6.4057806541726015" height="24"
   rx="6" fill="#FF69B4" filter="url(#pinkGlow)"/>
 
 
@@ -164,7 +164,7 @@
   rx="6" fill="#171117" stroke="#4A1E3A"/>
 
 <rect x="190" y="363"
-  width="2.675695301432862" height="24"
+  width="2.675695301432863" height="24"
   rx="6" fill="#FF69B4" filter="url(#pinkGlow)"/>
 
 
